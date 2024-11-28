@@ -18,7 +18,7 @@
             $matric_number = "AI220139";
             $course = "Bachelor of Computer Science (Information Security) with Honours";
             $study_year = "Year 3";
-            $address = "34, jalan 8/27D Seksyen 8, 43650 Bandar Baru Bangi, Selangor"; 
+            $address = "Bandar Baru Bangi, Selangor"; 
         ?>
 
         <table>
